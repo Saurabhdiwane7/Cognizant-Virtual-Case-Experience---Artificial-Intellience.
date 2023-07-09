@@ -1,8 +1,9 @@
-# Cognizant-Virtual-Case-Experience---Artificial-Intellience.
+# Artificial Intelligence Virtual Case Experience
 
 First Of, I would like to thank [Forage](https://www.theforage.com/) and [PWC Switzerland](https://www.pwc.ch/en.html) for this excellent virtual case experience program.
 
-With this program i've solve a problem statement for gala groceries store with machine learning algorithms.
+
+With this program i've solve a problem statement for Gala Groceries Store with machine learning algorithms.
 
 ![l](https://i0.wp.com/themileses.com/wp-content/uploads/2018/04/straight-line.png)
 
@@ -10,6 +11,7 @@ With this program i've solve a problem statement for gala groceries store with m
 
 “Can we accurately predict the stock levels of products based on sales data and sensor data on an hourly basis in order to more intelligently procure products from our suppliers?”
 
+![l](https://i0.wp.com/themileses.com/wp-content/uploads/2018/04/straight-line.png)
 ### Task 1 = Exploratory data analysis :
 
 Dataset : sales_data
@@ -30,7 +32,7 @@ Insights from the datasets :
 As we have mentioned in the PPT File.
 
 
-### Task 3 = Feacture Engineering And Feacture Selection
+### Task 3 = Feature Engineering And Feature Selection
 
 Now we have the following datasets
 `Sample_Sales_data`
@@ -67,16 +69,23 @@ Even though the model is predicting robustly, this value for MAE is not so good,
 
 As a final note, we can use the trained model to intepret which features were signficant when the model was predicting the target variable. We will use `matplotlib` and `numpy` to visualuse the results, so we should install and import this package.
 
+![l](https://i0.wp.com/themileses.com/wp-content/uploads/2018/04/straight-line.png)
 
-With the help of visualization we've cam across the following insights :
+♦ With the help of visualization we've came across with following insights :
+
 
 • The unit price and temperature are most important for predicting the stocks
 
 • The hour of day was also important for predicting stock.
 
-• Temperature is also significant feacture contributing for the accuracy of the model
+• Temperature is also significant feature contributing for the accuracy of the model
 
-• With the help of additional feactures like weather and deliveries we can improve the accuracy.
+• With the help of additional features like weather and deliveries we can improve the accuracy.
 
-To enroll this Program please Visit the Forage Link!
+### Task 5 = Quality Assurance 
 
+As per the learning throughout the work 6 set of MCQ question regarding the problem statement you'll need to attempt. 
+Check out the link and feel free to drop your feedback!!
+
+To enroll this Program please Visit the Forage Link!!
+![l](https://i0.wp.com/themileses.com/wp-content/uploads/2018/04/straight-line.png)
